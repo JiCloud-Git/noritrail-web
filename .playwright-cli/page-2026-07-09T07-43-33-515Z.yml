@@ -1,0 +1,28 @@
+- generic [ref=f1e4]:
+  - generic:
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+    - generic:
+      - img
+  - paragraph [ref=f1e5]: 놀이발자국 · NoriTrail
+  - generic [ref=f1e6]:
+    - heading "아이의 놀이 발자국을 읽다" [level=1] [ref=f1e7]
+    - paragraph [ref=f1e8]: 파트너 키즈카페에서 자유롭게 노는 동안, AI가 아이의 움직임을 관찰해 성향 리포트를 보내드려요.
+  - button "이메일로 시작하기" [ref=f1e9] [cursor=pointer]
+  - button "데모 데이터로 둘러보기" [ref=f1e11] [cursor=pointer]
